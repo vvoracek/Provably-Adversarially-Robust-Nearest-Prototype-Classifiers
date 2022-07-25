@@ -1,0 +1,4 @@
+torchvision==0.10
+perceptual-advex
+jax
+jaxlib
