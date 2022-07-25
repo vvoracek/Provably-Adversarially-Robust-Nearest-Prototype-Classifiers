@@ -2,6 +2,7 @@
 code for our ICML 2022 paper "Provably Adversarially Robust Nearest Prototype Classifiers" (under construction)
 
 Before running the experiments, install the dependencies with:
+
     pip install -r requirements.txt
     
 To replicate training for MNIST, $\ell_2$ robust radius $1.58$, run the default parameters:
